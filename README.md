@@ -70,7 +70,7 @@ Example response:
 
 ## Project Structure
 
-* `src/main/java/com/aman/aiaagentexample/` - Main source code including controller, service, and AI integration logic.
+* `src/main/java/com/thescribble/AIAgentExample` - Main source code including controller, service, and AI integration logic.
 * `src/main/resources/` - Application configuration files.
 * `pom.xml` - Maven build and dependency management.
 
